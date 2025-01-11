@@ -1,0 +1,22 @@
+[
+  {
+    "questionText": "What is React?",
+    "answer": "React is a javascript library used to build web applications, it allows us to create re-useable ui components and manage the state efficiently. React uses virtual-DOM to optimize performance."
+  },
+  {
+    "questionText": "What is create-react-app?",
+    "answer": "create-react-app is a command line tool, provided by React team, that setup the pre-configured development environment"
+  },
+  {
+    "questionText": "Does this project need to use Redux, if yes then why?",
+    "answer": "No, we don't need to use redux in this project, we use built-in state management i.e (useState,useEffect);"
+  },
+  {
+    "questionText": "What is the difference between CSR and SSR",
+    "answer": "CSR stands for \"Client-side Rendering\" renders content in the browser, leading to slower initial loads, but better interactivity after loading.\nSSR stands for \"Server-side Rendering\" which generates HTML on the server and providing faster initial load and better SEO."
+  },
+  {
+    "questionText": "How many years of experience do you have?",
+    "answer": "I have 3 years of experience in React."
+  }
+]
